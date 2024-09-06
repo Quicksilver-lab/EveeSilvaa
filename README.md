@@ -4,8 +4,6 @@
 
 
 </div>
-
-<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <h3 align="center">I’m currently learning to progam in python, I´m creating two projects with different programming languages trying to improve my skills...</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
@@ -15,7 +13,7 @@
 
 - 💬 Ask me about **Spring, Angular, Programming, Devops,...**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like drawing, watching anime, listening to music and programming**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
