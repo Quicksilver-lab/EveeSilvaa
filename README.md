@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
 
-![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)<p align="center">
+![Snake animation](https://github.com/EveeSilvaa/EveeSilvaa/blob/output/github-contribution-grid-snake.svg)<p align="center">
