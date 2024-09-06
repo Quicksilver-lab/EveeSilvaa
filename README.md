@@ -4,6 +4,8 @@
 
 
 </div>
+
+<img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
 <h3 align="center">I’m currently learning to progam in python, I´m creating two projects with different programming languages trying to improve my skills...</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
@@ -13,17 +15,32 @@
 
 - 💬 Ask me about **Spring, Angular, Programming, Devops,...**
 
-- ⚡ Curiosity **I like to draw, I'm passionate about reading and I love anime**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
   
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynmaria593@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynsilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
 [![Dio.me](https://img.shields.io/badge/-Dio.me-000?style=for-the-badge&logo=Dio.me&logoColor=30A3DC)](https://www.dio.me/users/evellyndev593/)
 
-### GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EveeSilvaa&theme=gruvbox&show_icons=true&include_all_commits=true&custom_title=EveeSilva)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeSilvaa&theme=gruvbox&layout=donut)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EveeSilvaa&theme=gruvbox)
 </div>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Skills:</h3>
+<p align="center">
+  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+  <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+  <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+  <img alt="GitHub" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
+  <img alt="VSCode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+</p>
+
+## 📊 GitHub Stats: 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
