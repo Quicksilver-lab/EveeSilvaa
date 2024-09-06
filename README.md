@@ -5,7 +5,7 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
-<h3 align="center">I’m currently learning to progam in python, I´m creating two projects with different programming languages trying to improve my skills...</h3> 
+<h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera Educacional</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
 - 🌱 I’m currently learning **Programming**
@@ -28,6 +28,8 @@
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
   <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg">
+  <img alt="C##" height="60" width="60" src="https://github.com/user-attachments/assets/bd6e3afd-15cd-48a2-b2f8-e15abb1536b5">
+  <img alt="typescript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,9 +37,12 @@
   <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
   <img alt="GitHub" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
   <img alt="VSCode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+  <img alt="VSCode" height="60" width="60" src="https://github.com/user-attachments/assets/37bfb877-890c-4297-8df4-1478dbc6624e">
 </p>
 
 ## 📊 GitHub Stats: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
+
+![Snake animation](https://github.com/viniciusoliveiras/viniciusoliveiras/blob/output/github-contribution-grid-snake.svg)<p align="center">
