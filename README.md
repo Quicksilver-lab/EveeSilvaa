@@ -20,7 +20,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:evellynsilvadeveloper@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/maria-evellyn-silva-738631226/)
 [![Dio.me](https://img.shields.io/badge/-Dio.me-000?style=for-the-badge&logo=Dio.me&logoColor=30A3DC)](https://www.dio.me/users/evellyndev593/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](https://quicksilver-lab.github.io/EveeeSIlva/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=portfolio&logoColor=white)](https://quicksilver-lab.github.io/EveeSilvaa/)
 
 </div>
 
