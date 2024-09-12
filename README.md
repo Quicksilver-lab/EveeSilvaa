@@ -5,6 +5,7 @@
 
 </div>
 <h1 align="center">Hi 👋, I'm Evellyn Silva!</h1>
+<img src="https://github.com/user-attachments/assets/a87ed7da-3084-472e-b168-121f06026658" width="250" heigth="250"/>
 <h3 align="center">Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera Educacional</h3> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EveeSilvaa&label=Profile%20views&color=0e75b6&style=flat" alt="EveeSilvaa" /> </p>
 
@@ -40,9 +41,16 @@
   <img alt="VSCode" height="60" width="60" src="https://github.com/user-attachments/assets/37bfb877-890c-4297-8df4-1478dbc6624e">
 </p>
 
-## 📊 GitHub Stats: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EveeSilvaa&show_icons=true&locale=en&layout=compact" alt="EveeSilvaa" /></p>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=EveeSilvaa&show_icons=true&theme=tokyonight&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=EveeSilvaa&hide=html,scss,css&langs_count=8&layout=compact&theme=tokyonight&card_width=150" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EveeSilvaa&show_icons=true&locale=en" alt="EveeSilvaa" /></p>
+<img  height=202 align="left"  src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=EveeSilvaa&theme=tokyonight"/>
+
+
+
 
 
